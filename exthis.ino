@@ -115,16 +115,6 @@ void motor_control()
   digitalWrite(LOW_LEFT, LOW);
   }
   
-
-
-  //   if (PID_value > 0){
-  //     analogWrite(SPEED_RIGHT, SPEED};
-  //     analogWrite(SPEED_LEFT, SPEED-PID_value};
-  //   }
-  //   else{
-  //     analogWrite(SPEED_RIGHT, SPEED+PID_value};
-  //     analogWrite(SPEED_LEFT, SPEED};
-  //   }
 }
  
 void loop () 
